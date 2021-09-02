@@ -1,0 +1,60 @@
+table
+{
+    border:1px solid black;
+    background-color: solid black;
+    border-collapse: collapse;
+    
+}
+td
+{   
+    height: 100px;
+    width: 100px;
+    border:1px solid black;
+    text-align: center;
+}
+img
+{
+    height: 80px;
+    width: 80px;
+}
+.hovered
+{
+    background-color:rgb(192, 165, 142);
+}
+.black
+{
+    background-color: rgb(125, 80, 30);
+}
+.white
+{
+    background-color: rgb(236, 198, 115);
+}
+.clicked
+{
+    background-color:lightblue;
+}
+.possible
+{
+    background-color:lightgreen;
+}
+.hidden
+{
+    display:none;
+}
+.normal
+{
+    background-color:yellow;
+    color: black;
+}
+.blue
+{
+    
+    background-color: solid blue;
+    
+}
+.red
+{
+    
+    background-color: solid red;
+    
+}
